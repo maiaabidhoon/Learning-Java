@@ -35,4 +35,4 @@
         * Store memory references to objects.
     <br>
     <br>
-    ![Alt Text](https://github.com/maiaabidhoon/Learning-Java/blob/main/Day1/data_types_in_java.webp)
+    ![Link Text](https://github.com/maiaabidhoon/Learning-Java/blob/main/Day1/data_types_in_java.webp)
