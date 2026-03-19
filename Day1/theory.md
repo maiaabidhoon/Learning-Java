@@ -37,6 +37,7 @@
     * ### Datatype Details:
     ![Datatype Details](https://github.com/maiaabidhoon/Learning-Java/blob/main/Day1/data_types_in_java.webp)
 
+    |---------|------------------------------|-----------|--------------------|-------------------|--------------------------------|
     | Type    | Description                  | Default   | Size               | Example           | Range                          |
     |---------|------------------------------|-----------|--------------------|-------------------|--------------------------------|
     | boolean | Logical values               | false     | Not JVM-defined    | true, false       | true or false                  |
@@ -47,3 +48,4 @@
     | long    | 64-bit signed integer        | 0L        | 8 bytes            | 123456789L        | ±9.22e18                       |
     | float   | 32-bit floating point        | 0.0f      | 4 bytes            | 3.14f             | ~6–7 digits precision          |
     | double  | 64-bit floating point        | 0.0d      | 8 bytes            | 3.14159d          | ~15–16 digits precision        |
+
