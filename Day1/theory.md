@@ -35,4 +35,4 @@
         * Store memory references to objects.
     <br>
     <br>
-    ![Datatype Text](data_types_in_java.webp)
+    ![Alt Text](data_types_in_java.webp)
