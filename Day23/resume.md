@@ -1,102 +1,111 @@
-# Aabid Husain
+<h1 align="center">Aabid Husain</h1>
 
-📍 Bareilly, India  
-📞 +91-8795524175  
-📧 mraabid01@gmail.com  
+<p align="center">
+📍 Bareilly, India • 📞 +91-8795524175 • 📧 mraabid01@gmail.com
+</p>
 
----
-
-## 🔗 Social Media
-
-- 🌐 Portfolio: https://maiaabidhoon.com *(if available)*
-- 💼 LinkedIn: https://www.linkedin.com/in/maiaabidhoon
-- 🐙 GitHub: https://github.com/maiaabidhoon
-- 📸 Instagram: https://instagram.com/maiaabidhoon
-- 🐦 Twitter (X): https://twitter.com/maiaabidhoon
+<p align="center">
+<a href="https://matnite.com/maiaabidhoon">🌐 Portfolio</a> •
+<a href="https://www.linkedin.com/in/maiaabidhoon">💼 LinkedIn</a> •
+<a href="https://github.com/maiaabidhoon">🐙 GitHub</a> •
+<a href="https://instagram.com/maiaabidhoon">📸 Instagram</a> •
+<a href="https://twitter.com/maiaabidhoon">🐦 Twitter</a>
+</p>
 
 ---
 
-## 🧑‍💻 Summary
-Motivated and skilled Web & App Developer with strong expertise in React.js, React Native, and UI/UX design. Passionate about building scalable applications and contributing to innovative projects in Artificial Intelligence and Machine Learning.
+## 🧑‍💻 Profile
+
+🚀 **Web & App Developer** with strong expertise in **React.js, React Native, and UI/UX Design**.  
+💡 Passionate about building scalable applications and exploring **AI & Machine Learning**.  
+🎯 Focused on creating real-world impactful products.
 
 ---
 
 ## 🎓 Education
 
-### Master of Computer Applications (MCA) - AI & ML
-**Future Institute of Engineering and Technology, Bareilly**  
-Score: 81.1%
+| Degree                    | Institute                                                | Score |
+| ------------------------- | -------------------------------------------------------- | ----- |
+| **MCA (AI & ML)**         | Future Institute of Engineering and Technology, Bareilly | 81.1% |
+| **BCA (Web Development)** | Maa Asha Gyandeep Sansthan, Jaunpur                      | 81.3% |
 
-### Bachelor of Computer Applications (BCA) - Web Development
-**Maa Asha Gyandeep Sansthan Nayansand Jaunpur, Jaunpur**  
-Score: 81.3%
+**Schooling:**
 
-### Higher Secondary (Class XII)
-- Board: Uttar Pradesh  
-- Year: 2022  
-- Score: 51.6%
-
-### Secondary (Class X)
-- Board: Uttar Pradesh  
-- Year: 2020  
-- Score: 73%
+- Class XII (UP Board, 2022) — 51.6%
+- Class X (UP Board, 2020) — 73%
 
 ---
 
 ## 🚀 Projects
 
-### ABBAS - Automatic Bluetooth Based Attendance System  
-📅 Aug 2025 – Nov 2025  
+### 🔹 ABBAS – Automatic Bluetooth Based Attendance System
 
-- Developed an automated attendance system using Bluetooth Smart ID detection  
-- Eliminates manual attendance and hardware queues  
-- Attendance is marked based on physical presence in the classroom  
-- Integrated teacher-controlled session activation  
-- Ensures students remain within Bluetooth range for valid attendance  
+📅 _Aug 2025 – Nov 2025_
+
+✨ **Key Highlights:**
+
+- 📡 Smart attendance using **Bluetooth ID detection**
+- ⏱️ Tracks real-time classroom presence
+- 🎯 Eliminates manual attendance & hardware queues
+- 👨‍🏫 Teacher-controlled session activation
+- 📍 Requires valid Bluetooth range for marking attendance
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-- Web Development  
-- React.js  
-- React Native  
-- Frontend Development  
-- UI/UX Design  
-- Figma  
-- HTML  
-- Web Technologies  
-- Web Application Development  
-- Website Management  
-- Research Writing  
-- MS Office  
+<p>
+<img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/UI%2FUX-Design-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Figma-Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+</p>
+
+---
+
+## 💼 Skills
+
+- Frontend Development
+- Web Application Development
+- UI/UX Design & User Interface
+- Website Management
+- Research Writing
+- Web Technologies
 
 ---
 
 ## 🌐 Languages
 
-- English (Read, Write, Speak)  
-- Hindi (Read, Write, Speak)  
+| Language | Proficiency          |
+| -------- | -------------------- |
+| English  | Read • Write • Speak |
+| Hindi    | Read • Write • Speak |
 
 ---
 
 ## 🏆 Achievements
 
-- All Rounder & Department Topper (BCA)  
-- All Rounder, College Topper & Department Topper (MCA)  
-- All Rounder in School  
+🏅 Department Topper (BCA)  
+🏅 College Topper & Department Topper (MCA)  
+🏅 All-Rounder (School & College)
 
 ---
 
-## 🎖️ Awards & Honors
+## 🎖️ Awards
 
-- Startup Recognition at Future Incubation Center  
+🏆 Startup Recognition at **Future Incubation Center**
 
 ---
 
 ## 👤 Personal Details
 
-- Date of Birth: September 24, 2004  
-- Gender: Male  
+- 📅 Date of Birth: 24 September 2004
+- 🚹 Gender: Male
 
 ---
+
+<p align="center">
+✨ <i>"Building ideas into reality through code."</i>
+</p>
