@@ -34,4 +34,4 @@
     * ### Non-Primitive (Reference) Data Types:
         * Store memory references to objects.
     <br>
-    ![Alt Text](data_types_in_java.webp)
+    ![Link Text](data_types_in_java.webp)
