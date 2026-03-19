@@ -37,7 +37,9 @@
     * ### Datatype Details:
     ![Datatype Details](https://github.com/maiaabidhoon/Learning-Java/blob/main/Day1/data_types_in_java.webp)
 
+    |-----------------------------------------------------------------------------------|
     | Type	| Description | Default	| Size | Example | Range |
+    |-----------------------------------------------------------------------------------|
     | boolean | Logical values | false | Not JVM-defined | true, false | true or false |
     | byte | 8-bit signed integer	0	1 byte	10	-128 to 127
     | char | 16-bit Unicode character	\u0000	2 bytes	'A', '\u0041'	0 to 65,535
