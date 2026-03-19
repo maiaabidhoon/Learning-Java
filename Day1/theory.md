@@ -33,4 +33,6 @@
         * Store simple values directly in memory.
     * ### Non-Primitive (Reference) Data Types:
         * Store memory references to objects.
+    <br>
+    <br>
     ![Link Text](https://github.com/maiaabidhoon/Learning-Java/blob/main/Day1/data_types_in_java.webp)
