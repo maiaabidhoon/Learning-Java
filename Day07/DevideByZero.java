@@ -1,4 +1,4 @@
-package Day7;
+package Day07;
 
 public class DevideByZero {
     public static void main(String[] args){
