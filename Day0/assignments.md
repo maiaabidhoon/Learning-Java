@@ -4,7 +4,7 @@
     * Write code to print multiple inputs using Scanner.
 
 * ## 2nd:
-    * Update progress on Github and tag me to see your Progress and get Certificate of completion on every step by **MAT Nite Private Limited**.
+    * Update progress on Github and tag me to see your Progress and get Certificate of completion on every step by ```**MAT Nite Private Limited**```.
 
 * ## 3rd:
     * Follow **@maiaabidhoon** on social media.
