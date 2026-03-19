@@ -8,4 +8,29 @@
             * **char** - stores single characters, such as **```'a'```** or **```'B'```**. Char values are surrounded by single quotes.
             * **boolean** - stores values with two states: true or false.
 
+    * ### To create a variable in Java, you need to:
+        * Choose a type (like ```int``` or ```String```).
+        * Give the variable a name (like ```x```, ```age```, or ```name```).
+        * Optionally assign it a value using ```=```.
+
+    * ### Syntax:
+        *```type variableName = value;```*
+
+    * ### Example:
+        * ```String name = "John"```;
+        * ```System.out.println(name)```;
+
     * ### Rules:
+        * **Allowed Characters:** Variable names can contain letters (A-Z, a-z), digits (0-9), the underscore character (_), and the dollar sign ($).
+        * **Starting Character:** A name must start with a letter, the dollar sign ($), or an underscore (_). It cannot begin with a digit.
+        * **No Keywords:** You cannot use any of the Java reserved keywords (e.g., int, for, class) as a variable name. The literals true, false, and null also cannot be used as identifiers.
+        * **No Spaces:** Variable names cannot contain white spaces.
+        * **Case Sensitive:** Java is case-sensitive, so age and Age would be treated as two different variables.
+        * **Uniqueness:** A variable must be unique within its specific scope. 
+
+* # Datatype:
+    * ### Primitive Data Types:
+        * Store simple values directly in memory.
+    * ### Non-Primitive (Reference) Data Types:
+        * Store memory references to objects.
+    [Alt Text](data_types_in_java.webp)
