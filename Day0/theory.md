@@ -15,13 +15,13 @@
         * **Long-Term Support (LTS):** The most recent LTS versions are Java 25, 21, 17, 11, and 8. 
     
     * ## Core Concept:
-        * # JVM (Java Virtual Machine): 
+        * ### JVM (Java Virtual Machine): 
             * This is the core execution engine that translates Java bytecode into machine-specific instructions for the underlying hardware. It is an abstract machine and is platform-dependent (requires a specific implementation for each operating system), which is why Java is considered "write once, run anywhere" (WORA).
             
-        * # JRE (Java Runtime Environment):
+        * ### JRE (Java Runtime Environment):
             * This is a software package that provides the environment necessary to run compiled Java programs. It physically exists on a system and includes the JVM, core class libraries, and supporting files but contains no development tools. End-users who only need to run Java applications typically install the JRE.
             
-        * # DK (Java Development Kit): 
+        * ### DK (Java Development Kit): 
             * This is a comprehensive software development kit that provides all the tools and libraries needed to create, compile, and debug Java applications. The JDK is a superset of the JRE; installing the JDK automatically includes the JRE and additional development tools such as the javac compiler, jdb debugger, and jar archiver. Developers must install the JDK to write new Java programs.
 
 * # Installation:
