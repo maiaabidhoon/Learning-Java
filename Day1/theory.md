@@ -37,7 +37,7 @@
     * ### Datatype Details:
     ![Datatype Details](https://github.com/maiaabidhoon/Learning-Java/blob/main/Day1/data_types_in_java.webp)
 
-    |---------|------------------------------|-----------|--------------------|-------------------|--------------------------------|
+    
     | Type    | Description                  | Default   | Size               | Example           | Range                          |
     |---------|------------------------------|-----------|--------------------|-------------------|--------------------------------|
     | boolean | Logical values               | false     | Not JVM-defined    | true, false       | true or false                  |
