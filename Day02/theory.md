@@ -2,4 +2,6 @@
     * ### Scanner - use of Scanner
     * ### Operator:
         * ### Arithmetic Operator
-        * ### Logical operator
+        * ### Logical Operator
+        * ### Comparison Operator
+        * ### Assignment Operator
