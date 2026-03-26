@@ -47,7 +47,7 @@
         * Store memory references to objects.
 
     * ### Datatype Details:
-    ![Datatype Details](https://github.com/maiaabidhoon/Learning-Java/blob/main/Day1/data_types_in_java.webp)
+    ![Datatype Details](https://github.com/maiaabidhoon/Learning-Java/blob/main/Day01/data_types_in_java.webp)
 
     
     | Type    | Description                  | Default   | Size               | Example           | Range                          |
