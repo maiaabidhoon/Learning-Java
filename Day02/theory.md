@@ -5,3 +5,4 @@
         * ### Logical Operator
         * ### Comparison Operator
         * ### Assignment Operator
+        * ### Bitwise Operator
